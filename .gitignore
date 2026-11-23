@@ -1,0 +1,31 @@
+# Datasets and images are never committed (licences, ethics)
+*.zip
+data/
+datasets/
+D01*/
+D02*/
+D03*/
+D04_poc/
+*.png
+*.jpg
+*.jpeg
+!docs/**/*.png
+
+# Large arrays and model weights
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
