@@ -1,0 +1,15 @@
+{
+ "model": "EfficientNet-B0 (ImageNet pretrained)",
+ "epochs": 12,
+ "train_images": 1467,
+ "best_val_auroc": 0.856,
+ "threshold_from_val": 0.26,
+ "clean_test_auroc": 0.778,
+ "ci95": [
+  0.67,
+  0.883
+ ],
+ "sensitivity": 0.81,
+ "specificity": 0.45,
+ "test_eyelids": 75
+}

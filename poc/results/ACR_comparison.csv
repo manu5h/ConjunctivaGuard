@@ -1,0 +1,4 @@
+way of working,answered_%,different_from_clean_%,accuracy_%,photos answered
+Answer everything,100.0,20.4,64.1,750
+Reject-only,26.7,12.5,66.5,200
+A/C/R (ConjunctivaGuard),55.6,14.4,62.4,417

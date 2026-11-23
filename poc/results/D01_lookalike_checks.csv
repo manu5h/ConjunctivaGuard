@@ -1,0 +1,1999 @@
+file_a,file_b,colour_diff,joined
+Anemic-071 (10).png,Non-Anemic-005 (2).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-005 (3).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-005 (5).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-005.png,999.0,False
+Anemic-071 (10).png,Non-Anemic-034 (2).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-034 (3).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-034 (5).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-034.png,999.0,False
+Anemic-071 (10).png,Non-Anemic-040 (2).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-040 (3).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-040 (5).png,999.0,False
+Anemic-071 (10).png,Non-Anemic-040.png,999.0,False
+Anemic-071 (11).png,Non-Anemic-005 (2).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-005 (3).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-005 (5).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-005.png,999.0,False
+Anemic-071 (11).png,Non-Anemic-034 (2).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-034 (3).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-034 (5).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-034.png,999.0,False
+Anemic-071 (11).png,Non-Anemic-040 (2).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-040 (3).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-040 (5).png,999.0,False
+Anemic-071 (11).png,Non-Anemic-040.png,999.0,False
+Anemic-071 (2).png,Non-Anemic-005 (2).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-005 (3).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-005 (5).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-005.png,999.0,False
+Anemic-071 (2).png,Non-Anemic-034 (2).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-034 (3).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-034 (5).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-034.png,999.0,False
+Anemic-071 (2).png,Non-Anemic-040 (2).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-040 (3).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-040 (5).png,999.0,False
+Anemic-071 (2).png,Non-Anemic-040.png,999.0,False
+Anemic-071 (4).png,Non-Anemic-005 (2).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-005 (3).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-005 (5).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-005.png,999.0,False
+Anemic-071 (4).png,Non-Anemic-034 (2).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-034 (3).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-034 (5).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-034.png,999.0,False
+Anemic-071 (4).png,Non-Anemic-040 (2).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-040 (3).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-040 (5).png,999.0,False
+Anemic-071 (4).png,Non-Anemic-040.png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-034 (2).png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-034 (3).png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-034 (5).png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-034.png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-005 (2).png,Non-Anemic-040.png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-034 (2).png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-034 (3).png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-034 (5).png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-034.png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-005 (3).png,Non-Anemic-040.png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-034 (2).png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-034 (3).png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-034 (5).png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-034.png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-005 (5).png,Non-Anemic-040.png,999.0,False
+Non-Anemic-005.png,Non-Anemic-034 (2).png,999.0,False
+Non-Anemic-005.png,Non-Anemic-034 (3).png,999.0,False
+Non-Anemic-005.png,Non-Anemic-034 (5).png,999.0,False
+Non-Anemic-005.png,Non-Anemic-034.png,999.0,False
+Non-Anemic-005.png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-005.png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-005.png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-005.png,Non-Anemic-040.png,999.0,False
+Non-Anemic-034 (2).png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-034 (2).png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-034 (2).png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-034 (2).png,Non-Anemic-040.png,999.0,False
+Non-Anemic-034 (3).png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-034 (3).png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-034 (3).png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-034 (3).png,Non-Anemic-040.png,999.0,False
+Non-Anemic-034 (5).png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-034 (5).png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-034 (5).png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-034 (5).png,Non-Anemic-040.png,999.0,False
+Non-Anemic-034.png,Non-Anemic-040 (2).png,999.0,False
+Non-Anemic-034.png,Non-Anemic-040 (3).png,999.0,False
+Non-Anemic-034.png,Non-Anemic-040 (5).png,999.0,False
+Non-Anemic-034.png,Non-Anemic-040.png,999.0,False
+Anemic-008 (10).png,Anemic-042 (10).png,999.0,False
+Anemic-008 (10).png,Anemic-042 (11).png,999.0,False
+Anemic-008 (10).png,Anemic-042 (2).png,999.0,False
+Anemic-008 (10).png,Anemic-042 (4).png,999.0,False
+Anemic-008 (10).png,Anemic-154 (2).png,999.0,False
+Anemic-008 (10).png,Anemic-154 (3).png,999.0,False
+Anemic-008 (10).png,Anemic-154 (5).png,999.0,False
+Anemic-008 (10).png,Anemic-154.png,999.0,False
+Anemic-008 (10).png,Anemic-Conj-N-004.png,999.0,False
+Anemic-008 (10).png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-008 (10).png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-008 (10).png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-008 (10).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-008 (10).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-008 (10).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-008 (10).png,Non-Anemic-039.png,999.0,False
+Anemic-008 (10).png,Non-Anemic-199 (10).png,999.0,False
+Anemic-008 (10).png,Non-Anemic-199 (11).png,999.0,False
+Anemic-008 (10).png,Non-Anemic-199 (2).png,999.0,False
+Anemic-008 (10).png,Non-Anemic-199 (4).png,999.0,False
+Anemic-008 (11).png,Anemic-042 (10).png,999.0,False
+Anemic-008 (11).png,Anemic-042 (11).png,999.0,False
+Anemic-008 (11).png,Anemic-042 (2).png,999.0,False
+Anemic-008 (11).png,Anemic-042 (4).png,999.0,False
+Anemic-008 (11).png,Anemic-154 (2).png,999.0,False
+Anemic-008 (11).png,Anemic-154 (3).png,999.0,False
+Anemic-008 (11).png,Anemic-154 (5).png,999.0,False
+Anemic-008 (11).png,Anemic-154.png,999.0,False
+Anemic-008 (11).png,Anemic-Conj-N-004.png,999.0,False
+Anemic-008 (11).png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-008 (11).png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-008 (11).png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-008 (11).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-008 (11).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-008 (11).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-008 (11).png,Non-Anemic-039.png,999.0,False
+Anemic-008 (11).png,Non-Anemic-199 (10).png,999.0,False
+Anemic-008 (11).png,Non-Anemic-199 (11).png,999.0,False
+Anemic-008 (11).png,Non-Anemic-199 (2).png,999.0,False
+Anemic-008 (11).png,Non-Anemic-199 (4).png,999.0,False
+Anemic-008 (2).png,Anemic-042 (10).png,999.0,False
+Anemic-008 (2).png,Anemic-042 (11).png,999.0,False
+Anemic-008 (2).png,Anemic-042 (2).png,999.0,False
+Anemic-008 (2).png,Anemic-042 (4).png,999.0,False
+Anemic-008 (2).png,Anemic-154 (2).png,999.0,False
+Anemic-008 (2).png,Anemic-154 (3).png,999.0,False
+Anemic-008 (2).png,Anemic-154 (5).png,999.0,False
+Anemic-008 (2).png,Anemic-154.png,999.0,False
+Anemic-008 (2).png,Anemic-Conj-N-004.png,999.0,False
+Anemic-008 (2).png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-008 (2).png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-008 (2).png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-008 (2).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-008 (2).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-008 (2).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-008 (2).png,Non-Anemic-039.png,999.0,False
+Anemic-008 (2).png,Non-Anemic-199 (10).png,999.0,False
+Anemic-008 (2).png,Non-Anemic-199 (11).png,999.0,False
+Anemic-008 (2).png,Non-Anemic-199 (2).png,999.0,False
+Anemic-008 (2).png,Non-Anemic-199 (4).png,999.0,False
+Anemic-008 (4).png,Anemic-042 (10).png,999.0,False
+Anemic-008 (4).png,Anemic-042 (11).png,999.0,False
+Anemic-008 (4).png,Anemic-042 (2).png,999.0,False
+Anemic-008 (4).png,Anemic-042 (4).png,999.0,False
+Anemic-008 (4).png,Anemic-154 (2).png,999.0,False
+Anemic-008 (4).png,Anemic-154 (3).png,999.0,False
+Anemic-008 (4).png,Anemic-154 (5).png,999.0,False
+Anemic-008 (4).png,Anemic-154.png,999.0,False
+Anemic-008 (4).png,Anemic-Conj-N-004.png,999.0,False
+Anemic-008 (4).png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-008 (4).png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-008 (4).png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-008 (4).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-008 (4).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-008 (4).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-008 (4).png,Non-Anemic-039.png,999.0,False
+Anemic-008 (4).png,Non-Anemic-199 (10).png,999.0,False
+Anemic-008 (4).png,Non-Anemic-199 (11).png,999.0,False
+Anemic-008 (4).png,Non-Anemic-199 (2).png,999.0,False
+Anemic-008 (4).png,Non-Anemic-199 (4).png,999.0,False
+Anemic-042 (10).png,Anemic-154 (2).png,999.0,False
+Anemic-042 (10).png,Anemic-154 (3).png,999.0,False
+Anemic-042 (10).png,Anemic-154 (5).png,999.0,False
+Anemic-042 (10).png,Anemic-154.png,999.0,False
+Anemic-042 (10).png,Anemic-Conj-N-004.png,14.3,False
+Anemic-042 (10).png,Anemic-Conj-N-0043.png,14.3,False
+Anemic-042 (10).png,Anemic-Conj-N-0044.png,14.3,False
+Anemic-042 (10).png,Anemic-Conj-N-0045.png,14.3,False
+Anemic-042 (10).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-042 (10).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-042 (10).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-042 (10).png,Non-Anemic-039.png,999.0,False
+Anemic-042 (10).png,Non-Anemic-199 (10).png,13.9,False
+Anemic-042 (10).png,Non-Anemic-199 (11).png,13.9,False
+Anemic-042 (10).png,Non-Anemic-199 (2).png,13.9,False
+Anemic-042 (10).png,Non-Anemic-199 (4).png,13.9,False
+Anemic-042 (11).png,Anemic-154 (2).png,999.0,False
+Anemic-042 (11).png,Anemic-154 (3).png,999.0,False
+Anemic-042 (11).png,Anemic-154 (5).png,999.0,False
+Anemic-042 (11).png,Anemic-154.png,999.0,False
+Anemic-042 (11).png,Anemic-Conj-N-004.png,14.3,False
+Anemic-042 (11).png,Anemic-Conj-N-0043.png,14.3,False
+Anemic-042 (11).png,Anemic-Conj-N-0044.png,14.3,False
+Anemic-042 (11).png,Anemic-Conj-N-0045.png,14.3,False
+Anemic-042 (11).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-042 (11).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-042 (11).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-042 (11).png,Non-Anemic-039.png,999.0,False
+Anemic-042 (11).png,Non-Anemic-199 (10).png,13.9,False
+Anemic-042 (11).png,Non-Anemic-199 (11).png,13.9,False
+Anemic-042 (11).png,Non-Anemic-199 (2).png,13.9,False
+Anemic-042 (11).png,Non-Anemic-199 (4).png,13.9,False
+Anemic-042 (2).png,Anemic-154 (2).png,999.0,False
+Anemic-042 (2).png,Anemic-154 (3).png,999.0,False
+Anemic-042 (2).png,Anemic-154 (5).png,999.0,False
+Anemic-042 (2).png,Anemic-154.png,999.0,False
+Anemic-042 (2).png,Anemic-Conj-N-004.png,14.3,False
+Anemic-042 (2).png,Anemic-Conj-N-0043.png,14.3,False
+Anemic-042 (2).png,Anemic-Conj-N-0044.png,14.3,False
+Anemic-042 (2).png,Anemic-Conj-N-0045.png,14.3,False
+Anemic-042 (2).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-042 (2).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-042 (2).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-042 (2).png,Non-Anemic-039.png,999.0,False
+Anemic-042 (2).png,Non-Anemic-199 (10).png,13.9,False
+Anemic-042 (2).png,Non-Anemic-199 (11).png,13.9,False
+Anemic-042 (2).png,Non-Anemic-199 (2).png,13.9,False
+Anemic-042 (2).png,Non-Anemic-199 (4).png,13.9,False
+Anemic-042 (4).png,Anemic-154 (2).png,999.0,False
+Anemic-042 (4).png,Anemic-154 (3).png,999.0,False
+Anemic-042 (4).png,Anemic-154 (5).png,999.0,False
+Anemic-042 (4).png,Anemic-154.png,999.0,False
+Anemic-042 (4).png,Anemic-Conj-N-004.png,14.3,False
+Anemic-042 (4).png,Anemic-Conj-N-0043.png,14.3,False
+Anemic-042 (4).png,Anemic-Conj-N-0044.png,14.3,False
+Anemic-042 (4).png,Anemic-Conj-N-0045.png,14.3,False
+Anemic-042 (4).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-042 (4).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-042 (4).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-042 (4).png,Non-Anemic-039.png,999.0,False
+Anemic-042 (4).png,Non-Anemic-199 (10).png,13.9,False
+Anemic-042 (4).png,Non-Anemic-199 (11).png,13.9,False
+Anemic-042 (4).png,Non-Anemic-199 (2).png,13.9,False
+Anemic-042 (4).png,Non-Anemic-199 (4).png,13.9,False
+Anemic-154 (2).png,Anemic-Conj-N-004.png,999.0,False
+Anemic-154 (2).png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-154 (2).png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-154 (2).png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-154 (2).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-154 (2).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-154 (2).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-154 (2).png,Non-Anemic-039.png,999.0,False
+Anemic-154 (2).png,Non-Anemic-199 (10).png,999.0,False
+Anemic-154 (2).png,Non-Anemic-199 (11).png,999.0,False
+Anemic-154 (2).png,Non-Anemic-199 (2).png,999.0,False
+Anemic-154 (2).png,Non-Anemic-199 (4).png,999.0,False
+Anemic-154 (3).png,Anemic-Conj-N-004.png,999.0,False
+Anemic-154 (3).png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-154 (3).png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-154 (3).png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-154 (3).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-154 (3).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-154 (3).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-154 (3).png,Non-Anemic-039.png,999.0,False
+Anemic-154 (3).png,Non-Anemic-199 (10).png,999.0,False
+Anemic-154 (3).png,Non-Anemic-199 (11).png,999.0,False
+Anemic-154 (3).png,Non-Anemic-199 (2).png,999.0,False
+Anemic-154 (3).png,Non-Anemic-199 (4).png,999.0,False
+Anemic-154 (5).png,Anemic-Conj-N-004.png,999.0,False
+Anemic-154 (5).png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-154 (5).png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-154 (5).png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-154 (5).png,Non-Anemic-039 (2).png,999.0,False
+Anemic-154 (5).png,Non-Anemic-039 (3).png,999.0,False
+Anemic-154 (5).png,Non-Anemic-039 (5).png,999.0,False
+Anemic-154 (5).png,Non-Anemic-039.png,999.0,False
+Anemic-154 (5).png,Non-Anemic-199 (10).png,999.0,False
+Anemic-154 (5).png,Non-Anemic-199 (11).png,999.0,False
+Anemic-154 (5).png,Non-Anemic-199 (2).png,999.0,False
+Anemic-154 (5).png,Non-Anemic-199 (4).png,999.0,False
+Anemic-154.png,Anemic-Conj-N-004.png,999.0,False
+Anemic-154.png,Anemic-Conj-N-0043.png,999.0,False
+Anemic-154.png,Anemic-Conj-N-0044.png,999.0,False
+Anemic-154.png,Anemic-Conj-N-0045.png,999.0,False
+Anemic-154.png,Non-Anemic-039 (2).png,999.0,False
+Anemic-154.png,Non-Anemic-039 (3).png,999.0,False
+Anemic-154.png,Non-Anemic-039 (5).png,999.0,False
+Anemic-154.png,Non-Anemic-039.png,999.0,False
+Anemic-154.png,Non-Anemic-199 (10).png,999.0,False
+Anemic-154.png,Non-Anemic-199 (11).png,999.0,False
+Anemic-154.png,Non-Anemic-199 (2).png,999.0,False
+Anemic-154.png,Non-Anemic-199 (4).png,999.0,False
+Anemic-Conj-N-004.png,Anemic-Conj-N-0043.png,0.2,True
+Anemic-Conj-N-004.png,Anemic-Conj-N-0044.png,0.2,True
+Anemic-Conj-N-004.png,Anemic-Conj-N-0045.png,0.2,True
+Anemic-Conj-N-004.png,Non-Anemic-039 (2).png,999.0,False
+Anemic-Conj-N-004.png,Non-Anemic-039 (3).png,999.0,False
+Anemic-Conj-N-004.png,Non-Anemic-039 (5).png,999.0,False
+Anemic-Conj-N-004.png,Non-Anemic-039.png,999.0,False
+Anemic-Conj-N-004.png,Non-Anemic-199 (10).png,999.0,False
+Anemic-Conj-N-004.png,Non-Anemic-199 (11).png,999.0,False
+Anemic-Conj-N-004.png,Non-Anemic-199 (2).png,999.0,False
+Anemic-Conj-N-004.png,Non-Anemic-199 (4).png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-039 (2).png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-039 (3).png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-039 (5).png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-039.png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-199 (10).png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-199 (11).png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-199 (2).png,999.0,False
+Anemic-Conj-N-0043.png,Non-Anemic-199 (4).png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-039 (2).png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-039 (3).png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-039 (5).png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-039.png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-199 (10).png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-199 (11).png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-199 (2).png,999.0,False
+Anemic-Conj-N-0044.png,Non-Anemic-199 (4).png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-039 (2).png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-039 (3).png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-039 (5).png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-039.png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-199 (10).png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-199 (11).png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-199 (2).png,999.0,False
+Anemic-Conj-N-0045.png,Non-Anemic-199 (4).png,999.0,False
+Non-Anemic-039 (2).png,Non-Anemic-199 (10).png,999.0,False
+Non-Anemic-039 (2).png,Non-Anemic-199 (11).png,999.0,False
+Non-Anemic-039 (2).png,Non-Anemic-199 (2).png,999.0,False
+Non-Anemic-039 (2).png,Non-Anemic-199 (4).png,999.0,False
+Non-Anemic-039 (3).png,Non-Anemic-199 (10).png,999.0,False
+Non-Anemic-039 (3).png,Non-Anemic-199 (11).png,999.0,False
+Non-Anemic-039 (3).png,Non-Anemic-199 (2).png,999.0,False
+Non-Anemic-039 (3).png,Non-Anemic-199 (4).png,999.0,False
+Non-Anemic-039 (5).png,Non-Anemic-199 (10).png,999.0,False
+Non-Anemic-039 (5).png,Non-Anemic-199 (11).png,999.0,False
+Non-Anemic-039 (5).png,Non-Anemic-199 (2).png,999.0,False
+Non-Anemic-039 (5).png,Non-Anemic-199 (4).png,999.0,False
+Non-Anemic-039.png,Non-Anemic-199 (10).png,999.0,False
+Non-Anemic-039.png,Non-Anemic-199 (11).png,999.0,False
+Non-Anemic-039.png,Non-Anemic-199 (2).png,999.0,False
+Non-Anemic-039.png,Non-Anemic-199 (4).png,999.0,False
+Anemic-175 (2).png,Non-Anemic-023 (2).png,999.0,False
+Anemic-175 (2).png,Non-Anemic-023 (3).png,999.0,False
+Anemic-175 (2).png,Non-Anemic-023 (5).png,999.0,False
+Anemic-175 (2).png,Non-Anemic-023.png,999.0,False
+Anemic-175 (2).png,Non-Anemic-043 (2).png,999.0,False
+Anemic-175 (2).png,Non-Anemic-043 (3).png,999.0,False
+Anemic-175 (2).png,Non-Anemic-043 (5).png,999.0,False
+Anemic-175 (2).png,Non-Anemic-043.png,999.0,False
+Anemic-175 (2).png,Non-anemic-Con-008 (10).png,999.0,False
+Anemic-175 (2).png,Non-anemic-Con-008 (11).png,999.0,False
+Anemic-175 (2).png,Non-anemic-Con-008 (2).png,999.0,False
+Anemic-175 (2).png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-023 (2).png,Non-Anemic-043 (2).png,999.0,False
+Non-Anemic-023 (2).png,Non-Anemic-043 (3).png,999.0,False
+Non-Anemic-023 (2).png,Non-Anemic-043 (5).png,999.0,False
+Non-Anemic-023 (2).png,Non-Anemic-043.png,999.0,False
+Non-Anemic-023 (2).png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-023 (2).png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-023 (2).png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-023 (2).png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-023 (3).png,Non-Anemic-043 (2).png,999.0,False
+Non-Anemic-023 (3).png,Non-Anemic-043 (3).png,999.0,False
+Non-Anemic-023 (3).png,Non-Anemic-043 (5).png,999.0,False
+Non-Anemic-023 (3).png,Non-Anemic-043.png,999.0,False
+Non-Anemic-023 (3).png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-023 (3).png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-023 (3).png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-023 (3).png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-023 (5).png,Non-Anemic-043 (2).png,999.0,False
+Non-Anemic-023 (5).png,Non-Anemic-043 (3).png,999.0,False
+Non-Anemic-023 (5).png,Non-Anemic-043 (5).png,999.0,False
+Non-Anemic-023 (5).png,Non-Anemic-043.png,999.0,False
+Non-Anemic-023 (5).png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-023 (5).png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-023 (5).png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-023 (5).png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-023.png,Non-Anemic-043 (2).png,999.0,False
+Non-Anemic-023.png,Non-Anemic-043 (3).png,999.0,False
+Non-Anemic-023.png,Non-Anemic-043 (5).png,999.0,False
+Non-Anemic-023.png,Non-Anemic-043.png,999.0,False
+Non-Anemic-023.png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-023.png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-023.png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-023.png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-043 (2).png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-043 (2).png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-043 (2).png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-043 (2).png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-043 (3).png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-043 (3).png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-043 (3).png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-043 (3).png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-043 (5).png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-043 (5).png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-043 (5).png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-043 (5).png,Non-anemic-Con-008 (4).png,999.0,False
+Non-Anemic-043.png,Non-anemic-Con-008 (10).png,999.0,False
+Non-Anemic-043.png,Non-anemic-Con-008 (11).png,999.0,False
+Non-Anemic-043.png,Non-anemic-Con-008 (2).png,999.0,False
+Non-Anemic-043.png,Non-anemic-Con-008 (4).png,999.0,False
+Anemic-173 (2).png,Anemic-Conj-N-0041.png,999.0,False
+Anemic-173 (2).png,Non-Anemic-020 (2).png,999.0,False
+Anemic-173 (2).png,Non-Anemic-020 (3).png,999.0,False
+Anemic-173 (2).png,Non-Anemic-020 (5).png,999.0,False
+Anemic-173 (2).png,Non-Anemic-020.png,999.0,False
+Anemic-173 (2).png,Non-Anemic-109 (2).png,7.7,False
+Anemic-173 (2).png,Non-Anemic-109 (3).png,7.7,False
+Anemic-173 (2).png,Non-Anemic-109 (5).png,7.7,False
+Anemic-173 (2).png,Non-Anemic-109.png,7.7,False
+Anemic-173 (3).png,Anemic-Conj-N-0041.png,999.0,False
+Anemic-173 (3).png,Non-Anemic-020 (2).png,999.0,False
+Anemic-173 (3).png,Non-Anemic-020 (3).png,999.0,False
+Anemic-173 (3).png,Non-Anemic-020 (5).png,999.0,False
+Anemic-173 (3).png,Non-Anemic-020.png,999.0,False
+Anemic-173 (3).png,Non-Anemic-109 (2).png,7.7,False
+Anemic-173 (3).png,Non-Anemic-109 (3).png,7.7,False
+Anemic-173 (3).png,Non-Anemic-109 (5).png,7.7,False
+Anemic-173 (3).png,Non-Anemic-109.png,7.7,False
+Anemic-173 (5).png,Anemic-Conj-N-0041.png,999.0,False
+Anemic-173 (5).png,Non-Anemic-020 (2).png,999.0,False
+Anemic-173 (5).png,Non-Anemic-020 (3).png,999.0,False
+Anemic-173 (5).png,Non-Anemic-020 (5).png,999.0,False
+Anemic-173 (5).png,Non-Anemic-020.png,999.0,False
+Anemic-173 (5).png,Non-Anemic-109 (2).png,7.7,False
+Anemic-173 (5).png,Non-Anemic-109 (3).png,7.7,False
+Anemic-173 (5).png,Non-Anemic-109 (5).png,7.7,False
+Anemic-173 (5).png,Non-Anemic-109.png,7.7,False
+Anemic-173.png,Anemic-Conj-N-0041.png,999.0,False
+Anemic-173.png,Non-Anemic-020 (2).png,999.0,False
+Anemic-173.png,Non-Anemic-020 (3).png,999.0,False
+Anemic-173.png,Non-Anemic-020 (5).png,999.0,False
+Anemic-173.png,Non-Anemic-020.png,999.0,False
+Anemic-173.png,Non-Anemic-109 (2).png,7.7,False
+Anemic-173.png,Non-Anemic-109 (3).png,7.7,False
+Anemic-173.png,Non-Anemic-109 (5).png,7.7,False
+Anemic-173.png,Non-Anemic-109.png,7.7,False
+Anemic-Conj-N-0041.png,Non-Anemic-020 (2).png,14.2,False
+Anemic-Conj-N-0041.png,Non-Anemic-020 (3).png,14.2,False
+Anemic-Conj-N-0041.png,Non-Anemic-020 (5).png,14.2,False
+Anemic-Conj-N-0041.png,Non-Anemic-020.png,14.2,False
+Anemic-Conj-N-0041.png,Non-Anemic-109 (2).png,999.0,False
+Anemic-Conj-N-0041.png,Non-Anemic-109 (3).png,999.0,False
+Anemic-Conj-N-0041.png,Non-Anemic-109 (5).png,999.0,False
+Anemic-Conj-N-0041.png,Non-Anemic-109.png,999.0,False
+Non-Anemic-020 (2).png,Non-Anemic-109 (2).png,999.0,False
+Non-Anemic-020 (2).png,Non-Anemic-109 (3).png,999.0,False
+Non-Anemic-020 (2).png,Non-Anemic-109 (5).png,999.0,False
+Non-Anemic-020 (2).png,Non-Anemic-109.png,999.0,False
+Non-Anemic-020 (3).png,Non-Anemic-109 (2).png,999.0,False
+Non-Anemic-020 (3).png,Non-Anemic-109 (3).png,999.0,False
+Non-Anemic-020 (3).png,Non-Anemic-109 (5).png,999.0,False
+Non-Anemic-020 (3).png,Non-Anemic-109.png,999.0,False
+Non-Anemic-020 (5).png,Non-Anemic-109 (2).png,999.0,False
+Non-Anemic-020 (5).png,Non-Anemic-109 (3).png,999.0,False
+Non-Anemic-020 (5).png,Non-Anemic-109 (5).png,999.0,False
+Non-Anemic-020 (5).png,Non-Anemic-109.png,999.0,False
+Non-Anemic-020.png,Non-Anemic-109 (2).png,999.0,False
+Non-Anemic-020.png,Non-Anemic-109 (3).png,999.0,False
+Non-Anemic-020.png,Non-Anemic-109 (5).png,999.0,False
+Non-Anemic-020.png,Non-Anemic-109.png,999.0,False
+Anemic-018 (10).png,Anemic-108 (10).png,12.3,False
+Anemic-018 (10).png,Anemic-108 (11).png,12.3,False
+Anemic-018 (10).png,Anemic-108 (2).png,12.3,False
+Anemic-018 (10).png,Anemic-108 (4).png,12.3,False
+Anemic-018 (11).png,Anemic-108 (10).png,12.3,False
+Anemic-018 (11).png,Anemic-108 (11).png,12.3,False
+Anemic-018 (11).png,Anemic-108 (2).png,12.3,False
+Anemic-018 (11).png,Anemic-108 (4).png,12.3,False
+Anemic-018 (2).png,Anemic-108 (10).png,12.3,False
+Anemic-018 (2).png,Anemic-108 (11).png,12.3,False
+Anemic-018 (2).png,Anemic-108 (2).png,12.3,False
+Anemic-018 (2).png,Anemic-108 (4).png,12.3,False
+Anemic-018 (4).png,Anemic-108 (10).png,12.3,False
+Anemic-018 (4).png,Anemic-108 (11).png,12.3,False
+Anemic-018 (4).png,Anemic-108 (2).png,12.3,False
+Anemic-018 (4).png,Anemic-108 (4).png,12.3,False
+Non-Anemic-096 (2).png,Non-Anemic-114 (2).png,999.0,False
+Non-Anemic-096 (2).png,Non-Anemic-114 (3).png,999.0,False
+Non-Anemic-096 (2).png,Non-Anemic-114 (5).png,999.0,False
+Non-Anemic-096 (2).png,Non-Anemic-114.png,999.0,False
+Non-Anemic-096 (2).png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-096 (2).png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-096 (2).png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-096 (2).png,Non-Anemic-126.png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-114 (2).png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-114 (3).png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-114 (5).png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-114.png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-096 (3).png,Non-Anemic-126.png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-114 (2).png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-114 (3).png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-114 (5).png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-114.png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-096 (5).png,Non-Anemic-126.png,999.0,False
+Non-Anemic-096.png,Non-Anemic-114 (2).png,999.0,False
+Non-Anemic-096.png,Non-Anemic-114 (3).png,999.0,False
+Non-Anemic-096.png,Non-Anemic-114 (5).png,999.0,False
+Non-Anemic-096.png,Non-Anemic-114.png,999.0,False
+Non-Anemic-096.png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-096.png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-096.png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-096.png,Non-Anemic-126.png,999.0,False
+Non-Anemic-114 (2).png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-114 (2).png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-114 (2).png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-114 (2).png,Non-Anemic-126.png,999.0,False
+Non-Anemic-114 (3).png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-114 (3).png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-114 (3).png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-114 (3).png,Non-Anemic-126.png,999.0,False
+Non-Anemic-114 (5).png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-114 (5).png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-114 (5).png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-114 (5).png,Non-Anemic-126.png,999.0,False
+Non-Anemic-114.png,Non-Anemic-126 (2).png,999.0,False
+Non-Anemic-114.png,Non-Anemic-126 (3).png,999.0,False
+Non-Anemic-114.png,Non-Anemic-126 (5).png,999.0,False
+Non-Anemic-114.png,Non-Anemic-126.png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-004 (2).png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-004 (3).png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-004 (5).png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-004.png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-203 (10).png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-203 (11).png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-203 (2).png,999.0,False
+Anemic-Conj-013 (2).png,Non-Anemic-203 (4).png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-004 (2).png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-004 (3).png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-004 (5).png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-004.png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-203 (10).png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-203 (11).png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-203 (2).png,999.0,False
+Anemic-Conj-013 (3).png,Non-Anemic-203 (4).png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-004 (2).png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-004 (3).png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-004 (5).png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-004.png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-203 (10).png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-203 (11).png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-203 (2).png,999.0,False
+Anemic-Conj-013 (5).png,Non-Anemic-203 (4).png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-004 (2).png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-004 (3).png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-004 (5).png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-004.png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-203 (10).png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-203 (11).png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-203 (2).png,999.0,False
+Anemic-Conj-013.png,Non-Anemic-203 (4).png,999.0,False
+Non-Anemic-004 (2).png,Non-Anemic-203 (10).png,18.7,False
+Non-Anemic-004 (2).png,Non-Anemic-203 (11).png,18.7,False
+Non-Anemic-004 (2).png,Non-Anemic-203 (2).png,18.7,False
+Non-Anemic-004 (2).png,Non-Anemic-203 (4).png,18.7,False
+Non-Anemic-004 (3).png,Non-Anemic-203 (10).png,18.7,False
+Non-Anemic-004 (3).png,Non-Anemic-203 (11).png,18.7,False
+Non-Anemic-004 (3).png,Non-Anemic-203 (2).png,18.7,False
+Non-Anemic-004 (3).png,Non-Anemic-203 (4).png,18.7,False
+Non-Anemic-004 (5).png,Non-Anemic-203 (10).png,18.7,False
+Non-Anemic-004 (5).png,Non-Anemic-203 (11).png,18.7,False
+Non-Anemic-004 (5).png,Non-Anemic-203 (2).png,18.7,False
+Non-Anemic-004 (5).png,Non-Anemic-203 (4).png,18.7,False
+Non-Anemic-004.png,Non-Anemic-203 (10).png,18.7,False
+Non-Anemic-004.png,Non-Anemic-203 (11).png,18.7,False
+Non-Anemic-004.png,Non-Anemic-203 (2).png,18.7,False
+Non-Anemic-004.png,Non-Anemic-203 (4).png,18.7,False
+Anemic-203 (2) - Copy.png,Non-Anemic-095 (2).png,999.0,False
+Anemic-203 (2) - Copy.png,Non-Anemic-095 (3).png,999.0,False
+Anemic-203 (2) - Copy.png,Non-Anemic-095 (5).png,999.0,False
+Anemic-203 (2) - Copy.png,Non-Anemic-095.png,999.0,False
+Anemic-203 (3) - Copy.png,Non-Anemic-095 (2).png,999.0,False
+Anemic-203 (3) - Copy.png,Non-Anemic-095 (3).png,999.0,False
+Anemic-203 (3) - Copy.png,Non-Anemic-095 (5).png,999.0,False
+Anemic-203 (3) - Copy.png,Non-Anemic-095.png,999.0,False
+Anemic-203 (5) - Copy.png,Non-Anemic-095 (2).png,999.0,False
+Anemic-203 (5) - Copy.png,Non-Anemic-095 (3).png,999.0,False
+Anemic-203 (5) - Copy.png,Non-Anemic-095 (5).png,999.0,False
+Anemic-203 (5) - Copy.png,Non-Anemic-095.png,999.0,False
+Anemic-203 - Copy.png,Non-Anemic-095 (2).png,999.0,False
+Anemic-203 - Copy.png,Non-Anemic-095 (3).png,999.0,False
+Anemic-203 - Copy.png,Non-Anemic-095 (5).png,999.0,False
+Anemic-203 - Copy.png,Non-Anemic-095.png,999.0,False
+Anemic-030 (10).png,Anemic-Conj-N-0042.png,999.0,False
+Anemic-030 (11).png,Anemic-Conj-N-0042.png,999.0,False
+Anemic-030 (2).png,Anemic-Conj-N-0042.png,999.0,False
+Anemic-030 (4).png,Anemic-Conj-N-0042.png,999.0,False
+Anemic-070 (10).png,Anemic-127 (2).png,0.4,True
+Anemic-016 (10).png,Anemic-020 (10).png,2.4,True
+Anemic-031 (10).png,Non-Anemic-083 (2).png,999.0,False
+Anemic-031 (10).png,Non-Anemic-083 (3).png,999.0,False
+Anemic-031 (10).png,Non-Anemic-083 (5).png,999.0,False
+Anemic-031 (10).png,Non-Anemic-083.png,999.0,False
+Anemic-031 (10).png,Non-Anemic-122 (2).png,999.0,False
+Anemic-031 (10).png,Non-Anemic-122 (3).png,999.0,False
+Anemic-031 (10).png,Non-Anemic-122 (5).png,999.0,False
+Anemic-031 (10).png,Non-Anemic-122.png,999.0,False
+Anemic-031 (11).png,Non-Anemic-083 (2).png,999.0,False
+Anemic-031 (11).png,Non-Anemic-083 (3).png,999.0,False
+Anemic-031 (11).png,Non-Anemic-083 (5).png,999.0,False
+Anemic-031 (11).png,Non-Anemic-083.png,999.0,False
+Anemic-031 (11).png,Non-Anemic-122 (2).png,999.0,False
+Anemic-031 (11).png,Non-Anemic-122 (3).png,999.0,False
+Anemic-031 (11).png,Non-Anemic-122 (5).png,999.0,False
+Anemic-031 (11).png,Non-Anemic-122.png,999.0,False
+Anemic-031 (2).png,Non-Anemic-083 (2).png,999.0,False
+Anemic-031 (2).png,Non-Anemic-083 (3).png,999.0,False
+Anemic-031 (2).png,Non-Anemic-083 (5).png,999.0,False
+Anemic-031 (2).png,Non-Anemic-083.png,999.0,False
+Anemic-031 (2).png,Non-Anemic-122 (2).png,999.0,False
+Anemic-031 (2).png,Non-Anemic-122 (3).png,999.0,False
+Anemic-031 (2).png,Non-Anemic-122 (5).png,999.0,False
+Anemic-031 (2).png,Non-Anemic-122.png,999.0,False
+Anemic-031 (4).png,Non-Anemic-083 (2).png,999.0,False
+Anemic-031 (4).png,Non-Anemic-083 (3).png,999.0,False
+Anemic-031 (4).png,Non-Anemic-083 (5).png,999.0,False
+Anemic-031 (4).png,Non-Anemic-083.png,999.0,False
+Anemic-031 (4).png,Non-Anemic-122 (2).png,999.0,False
+Anemic-031 (4).png,Non-Anemic-122 (3).png,999.0,False
+Anemic-031 (4).png,Non-Anemic-122 (5).png,999.0,False
+Anemic-031 (4).png,Non-Anemic-122.png,999.0,False
+Non-Anemic-083 (2).png,Non-Anemic-122 (2).png,7.5,False
+Non-Anemic-083 (2).png,Non-Anemic-122 (3).png,7.5,False
+Non-Anemic-083 (2).png,Non-Anemic-122 (5).png,7.5,False
+Non-Anemic-083 (2).png,Non-Anemic-122.png,7.5,False
+Non-Anemic-083 (3).png,Non-Anemic-122 (2).png,7.5,False
+Non-Anemic-083 (3).png,Non-Anemic-122 (3).png,7.5,False
+Non-Anemic-083 (3).png,Non-Anemic-122 (5).png,7.5,False
+Non-Anemic-083 (3).png,Non-Anemic-122.png,7.5,False
+Non-Anemic-083 (5).png,Non-Anemic-122 (2).png,7.5,False
+Non-Anemic-083 (5).png,Non-Anemic-122 (3).png,7.5,False
+Non-Anemic-083 (5).png,Non-Anemic-122 (5).png,7.5,False
+Non-Anemic-083 (5).png,Non-Anemic-122.png,7.5,False
+Non-Anemic-083.png,Non-Anemic-122 (2).png,7.5,False
+Non-Anemic-083.png,Non-Anemic-122 (3).png,7.5,False
+Non-Anemic-083.png,Non-Anemic-122 (5).png,7.5,False
+Non-Anemic-083.png,Non-Anemic-122.png,7.5,False
+Anemic-119 (10).png,Anemic-149 (2).png,9.8,False
+Anemic-119 (10).png,Anemic-149 (3).png,9.8,False
+Anemic-119 (10).png,Anemic-149 (5).png,9.8,False
+Anemic-119 (10).png,Anemic-149.png,9.8,False
+Anemic-119 (10).png,Anemic-159 (2).png,999.0,False
+Anemic-119 (10).png,Anemic-159 (3).png,999.0,False
+Anemic-119 (10).png,Anemic-159 (5).png,999.0,False
+Anemic-119 (10).png,Anemic-159.png,999.0,False
+Anemic-119 (10).png,Anemic-263 (2).png,999.0,False
+Anemic-119 (10).png,Anemic-263 (3).png,999.0,False
+Anemic-119 (10).png,Anemic-263 (5).png,999.0,False
+Anemic-119 (10).png,Anemic-263.png,999.0,False
+Anemic-119 (11).png,Anemic-149 (2).png,9.8,False
+Anemic-119 (11).png,Anemic-149 (3).png,9.8,False
+Anemic-119 (11).png,Anemic-149 (5).png,9.8,False
+Anemic-119 (11).png,Anemic-149.png,9.8,False
+Anemic-119 (11).png,Anemic-159 (2).png,999.0,False
+Anemic-119 (11).png,Anemic-159 (3).png,999.0,False
+Anemic-119 (11).png,Anemic-159 (5).png,999.0,False
+Anemic-119 (11).png,Anemic-159.png,999.0,False
+Anemic-119 (11).png,Anemic-263 (2).png,999.0,False
+Anemic-119 (11).png,Anemic-263 (3).png,999.0,False
+Anemic-119 (11).png,Anemic-263 (5).png,999.0,False
+Anemic-119 (11).png,Anemic-263.png,999.0,False
+Anemic-119 (2).png,Anemic-149 (2).png,9.8,False
+Anemic-119 (2).png,Anemic-149 (3).png,9.8,False
+Anemic-119 (2).png,Anemic-149 (5).png,9.8,False
+Anemic-119 (2).png,Anemic-149.png,9.8,False
+Anemic-119 (2).png,Anemic-159 (2).png,999.0,False
+Anemic-119 (2).png,Anemic-159 (3).png,999.0,False
+Anemic-119 (2).png,Anemic-159 (5).png,999.0,False
+Anemic-119 (2).png,Anemic-159.png,999.0,False
+Anemic-119 (2).png,Anemic-263 (2).png,999.0,False
+Anemic-119 (2).png,Anemic-263 (3).png,999.0,False
+Anemic-119 (2).png,Anemic-263 (5).png,999.0,False
+Anemic-119 (2).png,Anemic-263.png,999.0,False
+Anemic-119 (4).png,Anemic-149 (2).png,9.8,False
+Anemic-119 (4).png,Anemic-149 (3).png,9.8,False
+Anemic-119 (4).png,Anemic-149 (5).png,9.8,False
+Anemic-119 (4).png,Anemic-149.png,9.8,False
+Anemic-119 (4).png,Anemic-159 (2).png,999.0,False
+Anemic-119 (4).png,Anemic-159 (3).png,999.0,False
+Anemic-119 (4).png,Anemic-159 (5).png,999.0,False
+Anemic-119 (4).png,Anemic-159.png,999.0,False
+Anemic-119 (4).png,Anemic-263 (2).png,999.0,False
+Anemic-119 (4).png,Anemic-263 (3).png,999.0,False
+Anemic-119 (4).png,Anemic-263 (5).png,999.0,False
+Anemic-119 (4).png,Anemic-263.png,999.0,False
+Anemic-149 (2).png,Anemic-159 (2).png,999.0,False
+Anemic-149 (2).png,Anemic-159 (3).png,999.0,False
+Anemic-149 (2).png,Anemic-159 (5).png,999.0,False
+Anemic-149 (2).png,Anemic-159.png,999.0,False
+Anemic-149 (2).png,Anemic-263 (2).png,999.0,False
+Anemic-149 (2).png,Anemic-263 (3).png,999.0,False
+Anemic-149 (2).png,Anemic-263 (5).png,999.0,False
+Anemic-149 (2).png,Anemic-263.png,999.0,False
+Anemic-149 (3).png,Anemic-159 (2).png,999.0,False
+Anemic-149 (3).png,Anemic-159 (3).png,999.0,False
+Anemic-149 (3).png,Anemic-159 (5).png,999.0,False
+Anemic-149 (3).png,Anemic-159.png,999.0,False
+Anemic-149 (3).png,Anemic-263 (2).png,999.0,False
+Anemic-149 (3).png,Anemic-263 (3).png,999.0,False
+Anemic-149 (3).png,Anemic-263 (5).png,999.0,False
+Anemic-149 (3).png,Anemic-263.png,999.0,False
+Anemic-149 (5).png,Anemic-159 (2).png,999.0,False
+Anemic-149 (5).png,Anemic-159 (3).png,999.0,False
+Anemic-149 (5).png,Anemic-159 (5).png,999.0,False
+Anemic-149 (5).png,Anemic-159.png,999.0,False
+Anemic-149 (5).png,Anemic-263 (2).png,999.0,False
+Anemic-149 (5).png,Anemic-263 (3).png,999.0,False
+Anemic-149 (5).png,Anemic-263 (5).png,999.0,False
+Anemic-149 (5).png,Anemic-263.png,999.0,False
+Anemic-149.png,Anemic-159 (2).png,999.0,False
+Anemic-149.png,Anemic-159 (3).png,999.0,False
+Anemic-149.png,Anemic-159 (5).png,999.0,False
+Anemic-149.png,Anemic-159.png,999.0,False
+Anemic-149.png,Anemic-263 (2).png,999.0,False
+Anemic-149.png,Anemic-263 (3).png,999.0,False
+Anemic-149.png,Anemic-263 (5).png,999.0,False
+Anemic-149.png,Anemic-263.png,999.0,False
+Anemic-159 (2).png,Anemic-263 (2).png,999.0,False
+Anemic-159 (2).png,Anemic-263 (3).png,999.0,False
+Anemic-159 (2).png,Anemic-263 (5).png,999.0,False
+Anemic-159 (2).png,Anemic-263.png,999.0,False
+Anemic-159 (3).png,Anemic-263 (2).png,999.0,False
+Anemic-159 (3).png,Anemic-263 (3).png,999.0,False
+Anemic-159 (3).png,Anemic-263 (5).png,999.0,False
+Anemic-159 (3).png,Anemic-263.png,999.0,False
+Anemic-159 (5).png,Anemic-263 (2).png,999.0,False
+Anemic-159 (5).png,Anemic-263 (3).png,999.0,False
+Anemic-159 (5).png,Anemic-263 (5).png,999.0,False
+Anemic-159 (5).png,Anemic-263.png,999.0,False
+Anemic-159.png,Anemic-263 (2).png,999.0,False
+Anemic-159.png,Anemic-263 (3).png,999.0,False
+Anemic-159.png,Anemic-263 (5).png,999.0,False
+Anemic-159.png,Anemic-263.png,999.0,False
+Anemic-174 (2).png,Anemic-Conj-014 (2).png,999.0,False
+Anemic-174 (2).png,Anemic-Conj-014 (3).png,999.0,False
+Anemic-174 (2).png,Anemic-Conj-014 (5).png,999.0,False
+Anemic-174 (2).png,Anemic-Conj-014.png,999.0,False
+Anemic-174 (3).png,Anemic-Conj-014 (2).png,999.0,False
+Anemic-174 (3).png,Anemic-Conj-014 (3).png,999.0,False
+Anemic-174 (3).png,Anemic-Conj-014 (5).png,999.0,False
+Anemic-174 (3).png,Anemic-Conj-014.png,999.0,False
+Anemic-174 (5).png,Anemic-Conj-014 (2).png,999.0,False
+Anemic-174 (5).png,Anemic-Conj-014 (3).png,999.0,False
+Anemic-174 (5).png,Anemic-Conj-014 (5).png,999.0,False
+Anemic-174 (5).png,Anemic-Conj-014.png,999.0,False
+Anemic-174.png,Anemic-Conj-014 (2).png,999.0,False
+Anemic-174.png,Anemic-Conj-014 (3).png,999.0,False
+Anemic-174.png,Anemic-Conj-014 (5).png,999.0,False
+Anemic-174.png,Anemic-Conj-014.png,999.0,False
+Anemic-138 (2).png,Anemic-141 (2).png,999.0,False
+Anemic-138 (2).png,Anemic-141 (3).png,999.0,False
+Anemic-138 (2).png,Anemic-141 (5).png,999.0,False
+Anemic-138 (2).png,Anemic-141.png,999.0,False
+Anemic-138 (2).png,Non-Anemic-111 (2).png,999.0,False
+Anemic-138 (2).png,Non-Anemic-111 (3).png,999.0,False
+Anemic-138 (2).png,Non-Anemic-111 (5).png,999.0,False
+Anemic-138 (2).png,Non-Anemic-111.png,999.0,False
+Anemic-138 (3).png,Anemic-141 (2).png,999.0,False
+Anemic-138 (3).png,Anemic-141 (3).png,999.0,False
+Anemic-138 (3).png,Anemic-141 (5).png,999.0,False
+Anemic-138 (3).png,Anemic-141.png,999.0,False
+Anemic-138 (3).png,Non-Anemic-111 (2).png,999.0,False
+Anemic-138 (3).png,Non-Anemic-111 (3).png,999.0,False
+Anemic-138 (3).png,Non-Anemic-111 (5).png,999.0,False
+Anemic-138 (3).png,Non-Anemic-111.png,999.0,False
+Anemic-138 (5).png,Anemic-141 (2).png,999.0,False
+Anemic-138 (5).png,Anemic-141 (3).png,999.0,False
+Anemic-138 (5).png,Anemic-141 (5).png,999.0,False
+Anemic-138 (5).png,Anemic-141.png,999.0,False
+Anemic-138 (5).png,Non-Anemic-111 (2).png,999.0,False
+Anemic-138 (5).png,Non-Anemic-111 (3).png,999.0,False
+Anemic-138 (5).png,Non-Anemic-111 (5).png,999.0,False
+Anemic-138 (5).png,Non-Anemic-111.png,999.0,False
+Anemic-138.png,Anemic-141 (2).png,999.0,False
+Anemic-138.png,Anemic-141 (3).png,999.0,False
+Anemic-138.png,Anemic-141 (5).png,999.0,False
+Anemic-138.png,Anemic-141.png,999.0,False
+Anemic-138.png,Non-Anemic-111 (2).png,999.0,False
+Anemic-138.png,Non-Anemic-111 (3).png,999.0,False
+Anemic-138.png,Non-Anemic-111 (5).png,999.0,False
+Anemic-138.png,Non-Anemic-111.png,999.0,False
+Anemic-141 (2).png,Non-Anemic-111 (2).png,999.0,False
+Anemic-141 (2).png,Non-Anemic-111 (3).png,999.0,False
+Anemic-141 (2).png,Non-Anemic-111 (5).png,999.0,False
+Anemic-141 (2).png,Non-Anemic-111.png,999.0,False
+Anemic-141 (3).png,Non-Anemic-111 (2).png,999.0,False
+Anemic-141 (3).png,Non-Anemic-111 (3).png,999.0,False
+Anemic-141 (3).png,Non-Anemic-111 (5).png,999.0,False
+Anemic-141 (3).png,Non-Anemic-111.png,999.0,False
+Anemic-141 (5).png,Non-Anemic-111 (2).png,999.0,False
+Anemic-141 (5).png,Non-Anemic-111 (3).png,999.0,False
+Anemic-141 (5).png,Non-Anemic-111 (5).png,999.0,False
+Anemic-141 (5).png,Non-Anemic-111.png,999.0,False
+Anemic-141.png,Non-Anemic-111 (2).png,999.0,False
+Anemic-141.png,Non-Anemic-111 (3).png,999.0,False
+Anemic-141.png,Non-Anemic-111 (5).png,999.0,False
+Anemic-141.png,Non-Anemic-111.png,999.0,False
+Anemic-172 (2).png,Non-Anemic-132 (2).png,999.0,False
+Anemic-172 (2).png,Non-Anemic-132 (3).png,999.0,False
+Anemic-172 (2).png,Non-Anemic-132 (5).png,999.0,False
+Anemic-172 (2).png,Non-Anemic-132.png,999.0,False
+Anemic-172 (3).png,Non-Anemic-132 (2).png,999.0,False
+Anemic-172 (3).png,Non-Anemic-132 (3).png,999.0,False
+Anemic-172 (3).png,Non-Anemic-132 (5).png,999.0,False
+Anemic-172 (3).png,Non-Anemic-132.png,999.0,False
+Anemic-172 (5).png,Non-Anemic-132 (2).png,999.0,False
+Anemic-172 (5).png,Non-Anemic-132 (3).png,999.0,False
+Anemic-172 (5).png,Non-Anemic-132 (5).png,999.0,False
+Anemic-172 (5).png,Non-Anemic-132.png,999.0,False
+Anemic-172.png,Non-Anemic-132 (2).png,999.0,False
+Anemic-172.png,Non-Anemic-132 (3).png,999.0,False
+Anemic-172.png,Non-Anemic-132 (5).png,999.0,False
+Anemic-172.png,Non-Anemic-132.png,999.0,False
+Anemic-143 (2).png,Anemic-245 (2).png,999.0,False
+Anemic-143 (2).png,Anemic-245 (3).png,999.0,False
+Anemic-143 (2).png,Anemic-245 (5).png,999.0,False
+Anemic-143 (2).png,Anemic-245.png,999.0,False
+Anemic-143 (2).png,Non-Anemic-002 (2).png,10.5,False
+Anemic-143 (2).png,Non-Anemic-002 (3).png,10.5,False
+Anemic-143 (2).png,Non-Anemic-002 (5).png,10.5,False
+Anemic-143 (2).png,Non-Anemic-002.png,10.5,False
+Anemic-143 (2).png,Non-Anemic-068 (2).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-068 (3).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-068 (5).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-068.png,999.0,False
+Anemic-143 (2).png,Non-Anemic-123 (2).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-123 (3).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-123 (5).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-123.png,999.0,False
+Anemic-143 (2).png,Non-Anemic-125 (2).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-125 (3).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-125 (5).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-125.png,999.0,False
+Anemic-143 (2).png,Non-Anemic-128 (2).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-128 (3).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-128 (5).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-128.png,999.0,False
+Anemic-143 (2).png,Non-Anemic-129 (2).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-129 (3).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-129 (5).png,999.0,False
+Anemic-143 (2).png,Non-Anemic-129.png,999.0,False
+Anemic-143 (2).png,Non-Anemic-201 (10).png,15.6,False
+Anemic-143 (2).png,Non-Anemic-201 (11).png,15.6,False
+Anemic-143 (2).png,Non-Anemic-201 (2).png,15.6,False
+Anemic-143 (2).png,Non-Anemic-201 (4).png,15.6,False
+Anemic-143 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-143 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-143 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-143 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-143 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-143 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-143 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-143 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-143 (3).png,Anemic-245 (2).png,999.0,False
+Anemic-143 (3).png,Anemic-245 (3).png,999.0,False
+Anemic-143 (3).png,Anemic-245 (5).png,999.0,False
+Anemic-143 (3).png,Anemic-245.png,999.0,False
+Anemic-143 (3).png,Non-Anemic-002 (2).png,10.5,False
+Anemic-143 (3).png,Non-Anemic-002 (3).png,10.5,False
+Anemic-143 (3).png,Non-Anemic-002 (5).png,10.5,False
+Anemic-143 (3).png,Non-Anemic-002.png,10.5,False
+Anemic-143 (3).png,Non-Anemic-068 (2).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-068 (3).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-068 (5).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-068.png,999.0,False
+Anemic-143 (3).png,Non-Anemic-123 (2).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-123 (3).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-123 (5).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-123.png,999.0,False
+Anemic-143 (3).png,Non-Anemic-125 (2).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-125 (3).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-125 (5).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-125.png,999.0,False
+Anemic-143 (3).png,Non-Anemic-128 (2).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-128 (3).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-128 (5).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-128.png,999.0,False
+Anemic-143 (3).png,Non-Anemic-129 (2).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-129 (3).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-129 (5).png,999.0,False
+Anemic-143 (3).png,Non-Anemic-129.png,999.0,False
+Anemic-143 (3).png,Non-Anemic-201 (10).png,15.6,False
+Anemic-143 (3).png,Non-Anemic-201 (11).png,15.6,False
+Anemic-143 (3).png,Non-Anemic-201 (2).png,15.6,False
+Anemic-143 (3).png,Non-Anemic-201 (4).png,15.6,False
+Anemic-143 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-143 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-143 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-143 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-143 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-143 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-143 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-143 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-143 (5).png,Anemic-245 (2).png,999.0,False
+Anemic-143 (5).png,Anemic-245 (3).png,999.0,False
+Anemic-143 (5).png,Anemic-245 (5).png,999.0,False
+Anemic-143 (5).png,Anemic-245.png,999.0,False
+Anemic-143 (5).png,Non-Anemic-002 (2).png,10.5,False
+Anemic-143 (5).png,Non-Anemic-002 (3).png,10.5,False
+Anemic-143 (5).png,Non-Anemic-002 (5).png,10.5,False
+Anemic-143 (5).png,Non-Anemic-002.png,10.5,False
+Anemic-143 (5).png,Non-Anemic-068 (2).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-068 (3).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-068 (5).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-068.png,999.0,False
+Anemic-143 (5).png,Non-Anemic-123 (2).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-123 (3).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-123 (5).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-123.png,999.0,False
+Anemic-143 (5).png,Non-Anemic-125 (2).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-125 (3).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-125 (5).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-125.png,999.0,False
+Anemic-143 (5).png,Non-Anemic-128 (2).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-128 (3).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-128 (5).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-128.png,999.0,False
+Anemic-143 (5).png,Non-Anemic-129 (2).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-129 (3).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-129 (5).png,999.0,False
+Anemic-143 (5).png,Non-Anemic-129.png,999.0,False
+Anemic-143 (5).png,Non-Anemic-201 (10).png,15.6,False
+Anemic-143 (5).png,Non-Anemic-201 (11).png,15.6,False
+Anemic-143 (5).png,Non-Anemic-201 (2).png,15.6,False
+Anemic-143 (5).png,Non-Anemic-201 (4).png,15.6,False
+Anemic-143 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-143 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-143 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-143 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-143 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-143 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-143 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-143 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-143.png,Anemic-245 (2).png,999.0,False
+Anemic-143.png,Anemic-245 (3).png,999.0,False
+Anemic-143.png,Anemic-245 (5).png,999.0,False
+Anemic-143.png,Anemic-245.png,999.0,False
+Anemic-143.png,Non-Anemic-002 (2).png,10.5,False
+Anemic-143.png,Non-Anemic-002 (3).png,10.5,False
+Anemic-143.png,Non-Anemic-002 (5).png,10.5,False
+Anemic-143.png,Non-Anemic-002.png,10.5,False
+Anemic-143.png,Non-Anemic-068 (2).png,999.0,False
+Anemic-143.png,Non-Anemic-068 (3).png,999.0,False
+Anemic-143.png,Non-Anemic-068 (5).png,999.0,False
+Anemic-143.png,Non-Anemic-068.png,999.0,False
+Anemic-143.png,Non-Anemic-123 (2).png,999.0,False
+Anemic-143.png,Non-Anemic-123 (3).png,999.0,False
+Anemic-143.png,Non-Anemic-123 (5).png,999.0,False
+Anemic-143.png,Non-Anemic-123.png,999.0,False
+Anemic-143.png,Non-Anemic-125 (2).png,999.0,False
+Anemic-143.png,Non-Anemic-125 (3).png,999.0,False
+Anemic-143.png,Non-Anemic-125 (5).png,999.0,False
+Anemic-143.png,Non-Anemic-125.png,999.0,False
+Anemic-143.png,Non-Anemic-128 (2).png,999.0,False
+Anemic-143.png,Non-Anemic-128 (3).png,999.0,False
+Anemic-143.png,Non-Anemic-128 (5).png,999.0,False
+Anemic-143.png,Non-Anemic-128.png,999.0,False
+Anemic-143.png,Non-Anemic-129 (2).png,999.0,False
+Anemic-143.png,Non-Anemic-129 (3).png,999.0,False
+Anemic-143.png,Non-Anemic-129 (5).png,999.0,False
+Anemic-143.png,Non-Anemic-129.png,999.0,False
+Anemic-143.png,Non-Anemic-201 (10).png,15.6,False
+Anemic-143.png,Non-Anemic-201 (11).png,15.6,False
+Anemic-143.png,Non-Anemic-201 (2).png,15.6,False
+Anemic-143.png,Non-Anemic-201 (4).png,15.6,False
+Anemic-143.png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-143.png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-143.png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-143.png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-143.png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-143.png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-143.png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-143.png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-002 (2).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-002 (3).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-002 (5).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-002.png,999.0,False
+Anemic-245 (2).png,Non-Anemic-068 (2).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-068 (3).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-068 (5).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-068.png,999.0,False
+Anemic-245 (2).png,Non-Anemic-123 (2).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-123 (3).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-123 (5).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-123.png,999.0,False
+Anemic-245 (2).png,Non-Anemic-125 (2).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-125 (3).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-125 (5).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-125.png,999.0,False
+Anemic-245 (2).png,Non-Anemic-128 (2).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-128 (3).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-128 (5).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-128.png,999.0,False
+Anemic-245 (2).png,Non-Anemic-129 (2).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-129 (3).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-129 (5).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-129.png,999.0,False
+Anemic-245 (2).png,Non-Anemic-201 (10).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-201 (11).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-201 (2).png,999.0,False
+Anemic-245 (2).png,Non-Anemic-201 (4).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-245 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-002 (2).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-002 (3).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-002 (5).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-002.png,999.0,False
+Anemic-245 (3).png,Non-Anemic-068 (2).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-068 (3).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-068 (5).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-068.png,999.0,False
+Anemic-245 (3).png,Non-Anemic-123 (2).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-123 (3).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-123 (5).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-123.png,999.0,False
+Anemic-245 (3).png,Non-Anemic-125 (2).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-125 (3).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-125 (5).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-125.png,999.0,False
+Anemic-245 (3).png,Non-Anemic-128 (2).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-128 (3).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-128 (5).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-128.png,999.0,False
+Anemic-245 (3).png,Non-Anemic-129 (2).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-129 (3).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-129 (5).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-129.png,999.0,False
+Anemic-245 (3).png,Non-Anemic-201 (10).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-201 (11).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-201 (2).png,999.0,False
+Anemic-245 (3).png,Non-Anemic-201 (4).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-245 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-002 (2).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-002 (3).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-002 (5).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-002.png,999.0,False
+Anemic-245 (5).png,Non-Anemic-068 (2).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-068 (3).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-068 (5).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-068.png,999.0,False
+Anemic-245 (5).png,Non-Anemic-123 (2).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-123 (3).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-123 (5).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-123.png,999.0,False
+Anemic-245 (5).png,Non-Anemic-125 (2).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-125 (3).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-125 (5).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-125.png,999.0,False
+Anemic-245 (5).png,Non-Anemic-128 (2).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-128 (3).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-128 (5).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-128.png,999.0,False
+Anemic-245 (5).png,Non-Anemic-129 (2).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-129 (3).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-129 (5).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-129.png,999.0,False
+Anemic-245 (5).png,Non-Anemic-201 (10).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-201 (11).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-201 (2).png,999.0,False
+Anemic-245 (5).png,Non-Anemic-201 (4).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-245 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-245.png,Non-Anemic-002 (2).png,999.0,False
+Anemic-245.png,Non-Anemic-002 (3).png,999.0,False
+Anemic-245.png,Non-Anemic-002 (5).png,999.0,False
+Anemic-245.png,Non-Anemic-002.png,999.0,False
+Anemic-245.png,Non-Anemic-068 (2).png,999.0,False
+Anemic-245.png,Non-Anemic-068 (3).png,999.0,False
+Anemic-245.png,Non-Anemic-068 (5).png,999.0,False
+Anemic-245.png,Non-Anemic-068.png,999.0,False
+Anemic-245.png,Non-Anemic-123 (2).png,999.0,False
+Anemic-245.png,Non-Anemic-123 (3).png,999.0,False
+Anemic-245.png,Non-Anemic-123 (5).png,999.0,False
+Anemic-245.png,Non-Anemic-123.png,999.0,False
+Anemic-245.png,Non-Anemic-125 (2).png,999.0,False
+Anemic-245.png,Non-Anemic-125 (3).png,999.0,False
+Anemic-245.png,Non-Anemic-125 (5).png,999.0,False
+Anemic-245.png,Non-Anemic-125.png,999.0,False
+Anemic-245.png,Non-Anemic-128 (2).png,999.0,False
+Anemic-245.png,Non-Anemic-128 (3).png,999.0,False
+Anemic-245.png,Non-Anemic-128 (5).png,999.0,False
+Anemic-245.png,Non-Anemic-128.png,999.0,False
+Anemic-245.png,Non-Anemic-129 (2).png,999.0,False
+Anemic-245.png,Non-Anemic-129 (3).png,999.0,False
+Anemic-245.png,Non-Anemic-129 (5).png,999.0,False
+Anemic-245.png,Non-Anemic-129.png,999.0,False
+Anemic-245.png,Non-Anemic-201 (10).png,999.0,False
+Anemic-245.png,Non-Anemic-201 (11).png,999.0,False
+Anemic-245.png,Non-Anemic-201 (2).png,999.0,False
+Anemic-245.png,Non-Anemic-201 (4).png,999.0,False
+Anemic-245.png,Non-anemic-Con-016 (10).png,999.0,False
+Anemic-245.png,Non-anemic-Con-016 (11).png,999.0,False
+Anemic-245.png,Non-anemic-Con-016 (2).png,999.0,False
+Anemic-245.png,Non-anemic-Con-016 (4).png,999.0,False
+Anemic-245.png,Non-anemic-Con-017 (10).png,999.0,False
+Anemic-245.png,Non-anemic-Con-017 (11).png,999.0,False
+Anemic-245.png,Non-anemic-Con-017 (2).png,999.0,False
+Anemic-245.png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-068 (2).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-068 (3).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-068 (5).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-068.png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-123.png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-125 (2).png,18.9,False
+Non-Anemic-002 (2).png,Non-Anemic-125 (3).png,18.9,False
+Non-Anemic-002 (2).png,Non-Anemic-125 (5).png,18.9,False
+Non-Anemic-002 (2).png,Non-Anemic-125.png,18.9,False
+Non-Anemic-002 (2).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-002 (2).png,Non-Anemic-201 (10).png,12.8,False
+Non-Anemic-002 (2).png,Non-Anemic-201 (11).png,12.8,False
+Non-Anemic-002 (2).png,Non-Anemic-201 (2).png,12.8,False
+Non-Anemic-002 (2).png,Non-Anemic-201 (4).png,12.8,False
+Non-Anemic-002 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-002 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-002 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-002 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-002 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-002 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-002 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-002 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-068 (2).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-068 (3).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-068 (5).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-068.png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-123.png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-125 (2).png,18.9,False
+Non-Anemic-002 (3).png,Non-Anemic-125 (3).png,18.9,False
+Non-Anemic-002 (3).png,Non-Anemic-125 (5).png,18.9,False
+Non-Anemic-002 (3).png,Non-Anemic-125.png,18.9,False
+Non-Anemic-002 (3).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-002 (3).png,Non-Anemic-201 (10).png,12.9,False
+Non-Anemic-002 (3).png,Non-Anemic-201 (11).png,12.9,False
+Non-Anemic-002 (3).png,Non-Anemic-201 (2).png,12.9,False
+Non-Anemic-002 (3).png,Non-Anemic-201 (4).png,12.9,False
+Non-Anemic-002 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-002 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-002 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-002 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-002 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-002 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-002 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-002 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-068 (2).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-068 (3).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-068 (5).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-068.png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-123.png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-125 (2).png,18.9,False
+Non-Anemic-002 (5).png,Non-Anemic-125 (3).png,18.9,False
+Non-Anemic-002 (5).png,Non-Anemic-125 (5).png,18.9,False
+Non-Anemic-002 (5).png,Non-Anemic-125.png,18.9,False
+Non-Anemic-002 (5).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-002 (5).png,Non-Anemic-201 (10).png,12.8,False
+Non-Anemic-002 (5).png,Non-Anemic-201 (11).png,12.8,False
+Non-Anemic-002 (5).png,Non-Anemic-201 (2).png,12.8,False
+Non-Anemic-002 (5).png,Non-Anemic-201 (4).png,12.8,False
+Non-Anemic-002 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-002 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-002 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-002 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-002 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-002 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-002 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-002 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-068 (2).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-068 (3).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-068 (5).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-068.png,999.0,False
+Non-Anemic-002.png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-123.png,999.0,False
+Non-Anemic-002.png,Non-Anemic-125 (2).png,18.9,False
+Non-Anemic-002.png,Non-Anemic-125 (3).png,18.9,False
+Non-Anemic-002.png,Non-Anemic-125 (5).png,18.9,False
+Non-Anemic-002.png,Non-Anemic-125.png,18.9,False
+Non-Anemic-002.png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-128.png,999.0,False
+Non-Anemic-002.png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-002.png,Non-Anemic-129.png,999.0,False
+Non-Anemic-002.png,Non-Anemic-201 (10).png,12.9,False
+Non-Anemic-002.png,Non-Anemic-201 (11).png,12.9,False
+Non-Anemic-002.png,Non-Anemic-201 (2).png,12.9,False
+Non-Anemic-002.png,Non-Anemic-201 (4).png,12.9,False
+Non-Anemic-002.png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-002.png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-002.png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-002.png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-002.png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-002.png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-002.png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-002.png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-123.png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-125.png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-068 (2).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-068 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-123.png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-125.png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-068 (3).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-068 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-123.png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-125.png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-068 (5).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-068 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-123 (2).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-123 (3).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-123 (5).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-123.png,999.0,False
+Non-Anemic-068.png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-125.png,999.0,False
+Non-Anemic-068.png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-128.png,999.0,False
+Non-Anemic-068.png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-129.png,999.0,False
+Non-Anemic-068.png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-068.png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-068.png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-125.png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-123 (2).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-123 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-125.png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-123 (3).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-123 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-125.png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-123 (5).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-123 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-125 (2).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-125 (3).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-125 (5).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-125.png,999.0,False
+Non-Anemic-123.png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-128.png,999.0,False
+Non-Anemic-123.png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-129.png,999.0,False
+Non-Anemic-123.png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-123.png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-123.png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-125 (2).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-125 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-125 (3).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-125 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-128.png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-125 (5).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-125 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-128 (2).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-128 (3).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-128 (5).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-128.png,999.0,False
+Non-Anemic-125.png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-129.png,999.0,False
+Non-Anemic-125.png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-125.png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-125.png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-128 (2).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-128 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-128 (3).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-128 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-129.png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-128 (5).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-128 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-128.png,Non-Anemic-129 (2).png,999.0,False
+Non-Anemic-128.png,Non-Anemic-129 (3).png,999.0,False
+Non-Anemic-128.png,Non-Anemic-129 (5).png,999.0,False
+Non-Anemic-128.png,Non-Anemic-129.png,999.0,False
+Non-Anemic-128.png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-128.png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-128.png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-128.png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-128.png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-129 (2).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-129 (2).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-129 (2).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-129 (2).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-129 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-129 (3).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-129 (3).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-129 (3).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-129 (3).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-129 (3).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-129 (5).png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-129 (5).png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-129 (5).png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-129 (5).png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-129 (5).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-129.png,Non-Anemic-201 (10).png,999.0,False
+Non-Anemic-129.png,Non-Anemic-201 (11).png,999.0,False
+Non-Anemic-129.png,Non-Anemic-201 (2).png,999.0,False
+Non-Anemic-129.png,Non-Anemic-201 (4).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-129.png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-201 (10).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-201 (11).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-201 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-016 (10).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-016 (11).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-016 (2).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-016 (4).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-Anemic-201 (4).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-anemic-Con-016 (10).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-anemic-Con-016 (10).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-anemic-Con-016 (10).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-anemic-Con-016 (10).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-anemic-Con-016 (11).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-anemic-Con-016 (11).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-anemic-Con-016 (11).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-anemic-Con-016 (11).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-anemic-Con-016 (2).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-anemic-Con-016 (2).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-anemic-Con-016 (2).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-anemic-Con-016 (2).png,Non-anemic-Con-017 (4).png,999.0,False
+Non-anemic-Con-016 (4).png,Non-anemic-Con-017 (10).png,999.0,False
+Non-anemic-Con-016 (4).png,Non-anemic-Con-017 (11).png,999.0,False
+Non-anemic-Con-016 (4).png,Non-anemic-Con-017 (2).png,999.0,False
+Non-anemic-Con-016 (4).png,Non-anemic-Con-017 (4).png,999.0,False
+Anemic-012 (10).png,Anemic-115 (10).png,999.0,False
+Anemic-012 (10).png,Anemic-115 (11).png,999.0,False
+Anemic-012 (10).png,Anemic-115 (2).png,999.0,False
+Anemic-012 (10).png,Anemic-115 (4).png,999.0,False
+Anemic-012 (10).png,Non-Anemic-018 (2).png,10.9,False
+Anemic-012 (10).png,Non-Anemic-018 (3).png,10.9,False
+Anemic-012 (10).png,Non-Anemic-018 (5).png,10.9,False
+Anemic-012 (10).png,Non-Anemic-018.png,10.9,False
+Anemic-012 (11).png,Anemic-115 (10).png,999.0,False
+Anemic-012 (11).png,Anemic-115 (11).png,999.0,False
+Anemic-012 (11).png,Anemic-115 (2).png,999.0,False
+Anemic-012 (11).png,Anemic-115 (4).png,999.0,False
+Anemic-012 (11).png,Non-Anemic-018 (2).png,10.9,False
+Anemic-012 (11).png,Non-Anemic-018 (3).png,10.9,False
+Anemic-012 (11).png,Non-Anemic-018 (5).png,10.9,False
+Anemic-012 (11).png,Non-Anemic-018.png,10.9,False
+Anemic-012 (2).png,Anemic-115 (10).png,999.0,False
+Anemic-012 (2).png,Anemic-115 (11).png,999.0,False
+Anemic-012 (2).png,Anemic-115 (2).png,999.0,False
+Anemic-012 (2).png,Anemic-115 (4).png,999.0,False
+Anemic-012 (2).png,Non-Anemic-018 (2).png,10.9,False
+Anemic-012 (2).png,Non-Anemic-018 (3).png,10.9,False
+Anemic-012 (2).png,Non-Anemic-018 (5).png,10.9,False
+Anemic-012 (2).png,Non-Anemic-018.png,10.9,False
+Anemic-012 (4).png,Anemic-115 (10).png,999.0,False
+Anemic-012 (4).png,Anemic-115 (11).png,999.0,False
+Anemic-012 (4).png,Anemic-115 (2).png,999.0,False
+Anemic-012 (4).png,Anemic-115 (4).png,999.0,False
+Anemic-012 (4).png,Non-Anemic-018 (2).png,10.9,False
+Anemic-012 (4).png,Non-Anemic-018 (3).png,10.9,False
+Anemic-012 (4).png,Non-Anemic-018 (5).png,10.9,False
+Anemic-012 (4).png,Non-Anemic-018.png,10.9,False
+Anemic-115 (10).png,Non-Anemic-018 (2).png,20.6,False
+Anemic-115 (10).png,Non-Anemic-018 (3).png,20.6,False
+Anemic-115 (10).png,Non-Anemic-018 (5).png,20.6,False
+Anemic-115 (10).png,Non-Anemic-018.png,20.6,False
+Anemic-115 (11).png,Non-Anemic-018 (2).png,20.6,False
+Anemic-115 (11).png,Non-Anemic-018 (3).png,20.6,False
+Anemic-115 (11).png,Non-Anemic-018 (5).png,20.6,False
+Anemic-115 (11).png,Non-Anemic-018.png,20.6,False
+Anemic-115 (2).png,Non-Anemic-018 (2).png,20.6,False
+Anemic-115 (2).png,Non-Anemic-018 (3).png,20.6,False
+Anemic-115 (2).png,Non-Anemic-018 (5).png,20.6,False
+Anemic-115 (2).png,Non-Anemic-018.png,20.6,False
+Anemic-115 (4).png,Non-Anemic-018 (2).png,20.6,False
+Anemic-115 (4).png,Non-Anemic-018 (3).png,20.6,False
+Anemic-115 (4).png,Non-Anemic-018 (5).png,20.6,False
+Anemic-115 (4).png,Non-Anemic-018.png,20.6,False
+Anemic-056 (10).png,Anemic-082 (10).png,999.0,False
+Anemic-056 (10).png,Anemic-082 (11).png,999.0,False
+Anemic-056 (10).png,Anemic-082 (2).png,999.0,False
+Anemic-056 (10).png,Anemic-082 (4).png,999.0,False
+Anemic-056 (11).png,Anemic-082 (10).png,999.0,False
+Anemic-056 (11).png,Anemic-082 (11).png,999.0,False
+Anemic-056 (11).png,Anemic-082 (2).png,999.0,False
+Anemic-056 (11).png,Anemic-082 (4).png,999.0,False
+Anemic-056 (2).png,Anemic-082 (10).png,999.0,False
+Anemic-056 (2).png,Anemic-082 (11).png,999.0,False
+Anemic-056 (2).png,Anemic-082 (2).png,999.0,False
+Anemic-056 (2).png,Anemic-082 (4).png,999.0,False
+Anemic-056 (4).png,Anemic-082 (10).png,999.0,False
+Anemic-056 (4).png,Anemic-082 (11).png,999.0,False
+Anemic-056 (4).png,Anemic-082 (2).png,999.0,False
+Anemic-056 (4).png,Anemic-082 (4).png,999.0,False
+Non-Anemic-082 (2).png,Non-Anemic-103 (2).png,0.3,True
+Anemic-005 (10).png,Anemic-131 (2).png,999.0,False
+Anemic-005 (10).png,Anemic-131 (3).png,999.0,False
+Anemic-005 (10).png,Anemic-131 (5).png,999.0,False
+Anemic-005 (10).png,Anemic-131.png,999.0,False
+Anemic-005 (11).png,Anemic-131 (2).png,999.0,False
+Anemic-005 (11).png,Anemic-131 (3).png,999.0,False
+Anemic-005 (11).png,Anemic-131 (5).png,999.0,False
+Anemic-005 (11).png,Anemic-131.png,999.0,False
+Anemic-005 (2).png,Anemic-131 (2).png,999.0,False
+Anemic-005 (2).png,Anemic-131 (3).png,999.0,False
+Anemic-005 (2).png,Anemic-131 (5).png,999.0,False
+Anemic-005 (2).png,Anemic-131.png,999.0,False
+Anemic-005 (4).png,Anemic-131 (2).png,999.0,False
+Anemic-005 (4).png,Anemic-131 (3).png,999.0,False
+Anemic-005 (4).png,Anemic-131 (5).png,999.0,False
+Anemic-005 (4).png,Anemic-131.png,999.0,False
+Anemic-002 (10).png,Anemic-022 (10).png,999.0,False
+Anemic-002 (10).png,Anemic-022 (11).png,999.0,False
+Anemic-002 (10).png,Anemic-022 (2).png,999.0,False
+Anemic-002 (10).png,Anemic-022 (4).png,999.0,False
+Anemic-002 (10).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-002 (10).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-002 (10).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-002 (10).png,Non-Anemic-108.png,999.0,False
+Anemic-002 (11).png,Anemic-022 (10).png,999.0,False
+Anemic-002 (11).png,Anemic-022 (11).png,999.0,False
+Anemic-002 (11).png,Anemic-022 (2).png,999.0,False
+Anemic-002 (11).png,Anemic-022 (4).png,999.0,False
+Anemic-002 (11).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-002 (11).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-002 (11).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-002 (11).png,Non-Anemic-108.png,999.0,False
+Anemic-002 (2).png,Anemic-022 (10).png,999.0,False
+Anemic-002 (2).png,Anemic-022 (11).png,999.0,False
+Anemic-002 (2).png,Anemic-022 (2).png,999.0,False
+Anemic-002 (2).png,Anemic-022 (4).png,999.0,False
+Anemic-002 (2).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-002 (2).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-002 (2).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-002 (2).png,Non-Anemic-108.png,999.0,False
+Anemic-002 (4).png,Anemic-022 (10).png,999.0,False
+Anemic-002 (4).png,Anemic-022 (11).png,999.0,False
+Anemic-002 (4).png,Anemic-022 (2).png,999.0,False
+Anemic-002 (4).png,Anemic-022 (4).png,999.0,False
+Anemic-002 (4).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-002 (4).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-002 (4).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-002 (4).png,Non-Anemic-108.png,999.0,False
+Anemic-022 (10).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-022 (10).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-022 (10).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-022 (10).png,Non-Anemic-108.png,999.0,False
+Anemic-022 (11).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-022 (11).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-022 (11).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-022 (11).png,Non-Anemic-108.png,999.0,False
+Anemic-022 (2).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-022 (2).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-022 (2).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-022 (2).png,Non-Anemic-108.png,999.0,False
+Anemic-022 (4).png,Non-Anemic-108 (2).png,999.0,False
+Anemic-022 (4).png,Non-Anemic-108 (3).png,999.0,False
+Anemic-022 (4).png,Non-Anemic-108 (5).png,999.0,False
+Anemic-022 (4).png,Non-Anemic-108.png,999.0,False
+Anemic-090 (10).png,Non-Anemic-067 (2).png,999.0,False
+Anemic-090 (10).png,Non-Anemic-067 (3).png,999.0,False
+Anemic-090 (10).png,Non-Anemic-067 (5).png,999.0,False
+Anemic-090 (10).png,Non-Anemic-067.png,999.0,False
+Anemic-090 (11).png,Non-Anemic-067 (2).png,999.0,False
+Anemic-090 (11).png,Non-Anemic-067 (3).png,999.0,False
+Anemic-090 (11).png,Non-Anemic-067 (5).png,999.0,False
+Anemic-090 (11).png,Non-Anemic-067.png,999.0,False
+Anemic-090 (2).png,Non-Anemic-067 (2).png,999.0,False
+Anemic-090 (2).png,Non-Anemic-067 (3).png,999.0,False
+Anemic-090 (2).png,Non-Anemic-067 (5).png,999.0,False
+Anemic-090 (2).png,Non-Anemic-067.png,999.0,False
+Anemic-090 (4).png,Non-Anemic-067 (2).png,999.0,False
+Anemic-090 (4).png,Non-Anemic-067 (3).png,999.0,False
+Anemic-090 (4).png,Non-Anemic-067 (5).png,999.0,False
+Anemic-090 (4).png,Non-Anemic-067.png,999.0,False
+Anemic-011 (10).png,Anemic-021 (10).png,999.0,False
+Anemic-011 (10).png,Anemic-021 (11).png,999.0,False
+Anemic-011 (10).png,Anemic-021 (2).png,999.0,False
+Anemic-011 (10).png,Anemic-021 (4).png,999.0,False
+Anemic-011 (11).png,Anemic-021 (10).png,999.0,False
+Anemic-011 (11).png,Anemic-021 (11).png,999.0,False
+Anemic-011 (11).png,Anemic-021 (2).png,999.0,False
+Anemic-011 (11).png,Anemic-021 (4).png,999.0,False
+Anemic-011 (2).png,Anemic-021 (10).png,999.0,False
+Anemic-011 (2).png,Anemic-021 (11).png,999.0,False
+Anemic-011 (2).png,Anemic-021 (2).png,999.0,False
+Anemic-011 (2).png,Anemic-021 (4).png,999.0,False
+Anemic-011 (4).png,Anemic-021 (10).png,999.0,False
+Anemic-011 (4).png,Anemic-021 (11).png,999.0,False
+Anemic-011 (4).png,Anemic-021 (2).png,999.0,False
+Anemic-011 (4).png,Anemic-021 (4).png,999.0,False
+Anemic-001 (10).png,Anemic-001FV (10).png,0.2,True
+Anemic-001 (10).png,Anemic-001RA (10).png,0.2,True
+Anemic-158 (2).png,Non-Anemic-156 (2).png,999.0,False
+Anemic-158 (2).png,Non-Anemic-156 (3).png,999.0,False
+Anemic-158 (2).png,Non-Anemic-156 (5).png,999.0,False
+Anemic-158 (2).png,Non-Anemic-156.png,999.0,False
+Anemic-158 (3).png,Non-Anemic-156 (2).png,999.0,False
+Anemic-158 (3).png,Non-Anemic-156 (3).png,999.0,False
+Anemic-158 (3).png,Non-Anemic-156 (5).png,999.0,False
+Anemic-158 (3).png,Non-Anemic-156.png,999.0,False
+Anemic-158 (5).png,Non-Anemic-156 (2).png,999.0,False
+Anemic-158 (5).png,Non-Anemic-156 (3).png,999.0,False
+Anemic-158 (5).png,Non-Anemic-156 (5).png,999.0,False
+Anemic-158 (5).png,Non-Anemic-156.png,999.0,False
+Anemic-158.png,Non-Anemic-156 (2).png,999.0,False
+Anemic-158.png,Non-Anemic-156 (3).png,999.0,False
+Anemic-158.png,Non-Anemic-156 (5).png,999.0,False
+Anemic-158.png,Non-Anemic-156.png,999.0,False
+Anemic-039 (10).png,Anemic-130 (2).png,2.4,True
+Anemic-121 (2).png,Anemic-258 (2).png,999.0,False
+Anemic-121 (2).png,Anemic-258 (3).png,999.0,False
+Anemic-121 (2).png,Anemic-258 (5).png,999.0,False
+Anemic-121 (2).png,Anemic-258.png,999.0,False
+Anemic-121 (3).png,Anemic-258 (2).png,999.0,False
+Anemic-121 (3).png,Anemic-258 (3).png,999.0,False
+Anemic-121 (3).png,Anemic-258 (5).png,999.0,False
+Anemic-121 (3).png,Anemic-258.png,999.0,False
+Anemic-121 (5).png,Anemic-258 (2).png,999.0,False
+Anemic-121 (5).png,Anemic-258 (3).png,999.0,False
+Anemic-121 (5).png,Anemic-258 (5).png,999.0,False
+Anemic-121 (5).png,Anemic-258.png,999.0,False
+Anemic-121.png,Anemic-258 (2).png,999.0,False
+Anemic-121.png,Anemic-258 (3).png,999.0,False
+Anemic-121.png,Anemic-258 (5).png,999.0,False
+Anemic-121.png,Anemic-258.png,999.0,False
+Anemic-252 (2).png,Anemic-Conj-001 (2).png,999.0,False
+Anemic-252 (2).png,Anemic-Conj-001 (3).png,999.0,False
+Anemic-252 (2).png,Anemic-Conj-001 (5).png,999.0,False
+Anemic-252 (2).png,Anemic-Conj-001.png,999.0,False
+Anemic-252 (3).png,Anemic-Conj-001 (2).png,999.0,False
+Anemic-252 (3).png,Anemic-Conj-001 (3).png,999.0,False
+Anemic-252 (3).png,Anemic-Conj-001 (5).png,999.0,False
+Anemic-252 (3).png,Anemic-Conj-001.png,999.0,False
+Anemic-252 (5).png,Anemic-Conj-001 (2).png,999.0,False
+Anemic-252 (5).png,Anemic-Conj-001 (3).png,999.0,False
+Anemic-252 (5).png,Anemic-Conj-001 (5).png,999.0,False
+Anemic-252 (5).png,Anemic-Conj-001.png,999.0,False
+Anemic-252.png,Anemic-Conj-001 (2).png,999.0,False
+Anemic-252.png,Anemic-Conj-001 (3).png,999.0,False
+Anemic-252.png,Anemic-Conj-001 (5).png,999.0,False
+Anemic-252.png,Anemic-Conj-001.png,999.0,False
+Anemic-079 (10).png,Anemic-244 (2).png,999.0,False
+Anemic-079 (10).png,Anemic-244 (3).png,999.0,False
+Anemic-079 (10).png,Anemic-244 (5).png,999.0,False
+Anemic-079 (10).png,Anemic-244.png,999.0,False
+Anemic-079 (11).png,Anemic-244 (2).png,999.0,False
+Anemic-079 (11).png,Anemic-244 (3).png,999.0,False
+Anemic-079 (11).png,Anemic-244 (5).png,999.0,False
+Anemic-079 (11).png,Anemic-244.png,999.0,False
+Anemic-079 (2).png,Anemic-244 (2).png,999.0,False
+Anemic-079 (2).png,Anemic-244 (3).png,999.0,False
+Anemic-079 (2).png,Anemic-244 (5).png,999.0,False
+Anemic-079 (2).png,Anemic-244.png,999.0,False
+Anemic-079 (4).png,Anemic-244 (2).png,999.0,False
+Anemic-079 (4).png,Anemic-244 (3).png,999.0,False
+Anemic-079 (4).png,Anemic-244 (5).png,999.0,False
+Anemic-079 (4).png,Anemic-244.png,999.0,False
+Anemic-132 (2).png,Anemic-140 (2).png,999.0,False
+Anemic-132 (2).png,Anemic-140 (3).png,999.0,False
+Anemic-132 (2).png,Anemic-140 (5).png,999.0,False
+Anemic-132 (2).png,Anemic-140.png,999.0,False
+Anemic-132 (3).png,Anemic-140 (2).png,999.0,False
+Anemic-132 (3).png,Anemic-140 (3).png,999.0,False
+Anemic-132 (3).png,Anemic-140 (5).png,999.0,False
+Anemic-132 (3).png,Anemic-140.png,999.0,False
+Anemic-132 (5).png,Anemic-140 (2).png,999.0,False
+Anemic-132 (5).png,Anemic-140 (3).png,999.0,False
+Anemic-132 (5).png,Anemic-140 (5).png,999.0,False
+Anemic-132 (5).png,Anemic-140.png,999.0,False
+Anemic-132.png,Anemic-140 (2).png,999.0,False
+Anemic-132.png,Anemic-140 (3).png,999.0,False
+Anemic-132.png,Anemic-140 (5).png,999.0,False
+Anemic-132.png,Anemic-140.png,999.0,False
+Anemic-102 (10).png,Anemic-103 (10).png,999.0,False
+Anemic-102 (10).png,Anemic-103 (11).png,999.0,False
+Anemic-102 (10).png,Anemic-103 (2).png,999.0,False
+Anemic-102 (10).png,Anemic-103 (4).png,999.0,False
+Anemic-102 (11).png,Anemic-103 (10).png,999.0,False
+Anemic-102 (11).png,Anemic-103 (11).png,999.0,False
+Anemic-102 (11).png,Anemic-103 (2).png,999.0,False
+Anemic-102 (11).png,Anemic-103 (4).png,999.0,False
+Anemic-102 (2).png,Anemic-103 (10).png,999.0,False
+Anemic-102 (2).png,Anemic-103 (11).png,999.0,False
+Anemic-102 (2).png,Anemic-103 (2).png,999.0,False
+Anemic-102 (2).png,Anemic-103 (4).png,999.0,False
+Anemic-102 (4).png,Anemic-103 (10).png,999.0,False
+Anemic-102 (4).png,Anemic-103 (11).png,999.0,False
+Anemic-102 (4).png,Anemic-103 (2).png,999.0,False
+Anemic-102 (4).png,Anemic-103 (4).png,999.0,False
+Non-Anemic-090 (2).png,Non-Anemic-106 (2).png,0.5,True
+Non-Anemic-069 (2).png,Non-Anemic-194 (10).png,999.0,False
+Non-Anemic-069 (2).png,Non-Anemic-194 (11).png,999.0,False
+Non-Anemic-069 (2).png,Non-Anemic-194 (2).png,999.0,False
+Non-Anemic-069 (2).png,Non-Anemic-194 (4).png,999.0,False
+Non-Anemic-069 (3).png,Non-Anemic-194 (10).png,999.0,False
+Non-Anemic-069 (3).png,Non-Anemic-194 (11).png,999.0,False
+Non-Anemic-069 (3).png,Non-Anemic-194 (2).png,999.0,False
+Non-Anemic-069 (3).png,Non-Anemic-194 (4).png,999.0,False
+Non-Anemic-069 (5).png,Non-Anemic-194 (10).png,999.0,False
+Non-Anemic-069 (5).png,Non-Anemic-194 (11).png,999.0,False
+Non-Anemic-069 (5).png,Non-Anemic-194 (2).png,999.0,False
+Non-Anemic-069 (5).png,Non-Anemic-194 (4).png,999.0,False
+Non-Anemic-069.png,Non-Anemic-194 (10).png,999.0,False
+Non-Anemic-069.png,Non-Anemic-194 (11).png,999.0,False
+Non-Anemic-069.png,Non-Anemic-194 (2).png,999.0,False
+Non-Anemic-069.png,Non-Anemic-194 (4).png,999.0,False
+Anemic-Conj-N-00141.png,Anemic-Conj-N-003.png,0.9,True
+Anemic-Conj-N-00141.png,Anemic-Conj-N-0031.png,0.3,True
+Anemic-Conj-N-00141.png,Anemic-Conj-N-0032.png,0.3,True
+Anemic-Conj-N-00141.png,Anemic-Conj-N-0035.png,0.3,True
+Anemic-Conj-N-00141.png,Anemic-Conj-N-0036.png,0.3,True
+Anemic-246 (2).png,Anemic-247 (2).png,999.0,False
+Anemic-246 (2).png,Anemic-247 (3).png,999.0,False
+Anemic-246 (2).png,Anemic-247 (5).png,999.0,False
+Anemic-246 (2).png,Anemic-247.png,999.0,False
+Anemic-246 (3).png,Anemic-247 (2).png,999.0,False
+Anemic-246 (3).png,Anemic-247 (3).png,999.0,False
+Anemic-246 (3).png,Anemic-247 (5).png,999.0,False
+Anemic-246 (3).png,Anemic-247.png,999.0,False
+Anemic-246 (5).png,Anemic-247 (2).png,999.0,False
+Anemic-246 (5).png,Anemic-247 (3).png,999.0,False
+Anemic-246 (5).png,Anemic-247 (5).png,999.0,False
+Anemic-246 (5).png,Anemic-247.png,999.0,False
+Anemic-246.png,Anemic-247 (2).png,999.0,False
+Anemic-246.png,Anemic-247 (3).png,999.0,False
+Anemic-246.png,Anemic-247 (5).png,999.0,False
+Anemic-246.png,Anemic-247.png,999.0,False
+Anemic-Conj-N-0012.png,Anemic-Conj-N-0013.png,0.0,True
+Anemic-Conj-N-0012.png,Anemic-Conj-N-0014.png,0.0,True
+Anemic-Conj-N-0012.png,Anemic-Conj-N-012.png,0.3,True

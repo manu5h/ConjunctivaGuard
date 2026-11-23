@@ -1,0 +1,5 @@
+file_a,file_b,score,verdict,action
+Anemic-039 (2).png,Anemic-130.png,2.4,"same eyelid, lower-quality copy",join (by limit 4)
+Anemic-016 (2).png,Anemic-020 (2).png,2.4,"same eyelid, flipped, slightly different cut",join (by limit 4)
+Non-Anemic-083.png,Non-Anemic-122.png,7.5,"same outline, different colour: unsure","join (manual, safe choice)"
+Anemic-173.png,Non-Anemic-109.png,7.7,"different colour, texture and cut",keep apart

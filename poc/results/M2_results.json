@@ -1,0 +1,16 @@
+{
+ "photos": 547,
+ "train": 383,
+ "val": 82,
+ "test": 82,
+ "image_size": [
+  288,
+  384
+ ],
+ "epochs": 15,
+ "best_val_dice": 0.867,
+ "test_dice_vs_annotator1": 0.848,
+ "test_dice_vs_annotator2": 0.789,
+ "human_agreement_dice": 0.726,
+ "weak_test_photos_dice_below_0.5": 0
+}

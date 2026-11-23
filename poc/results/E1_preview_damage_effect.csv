@@ -1,0 +1,11 @@
+damage,level,AUROC,AUROC_low,AUROC_high,answers_changed_%
+none,clean,0.778,0.67,0.883,0.0
+glare,mild,0.776,0.668,0.876,8.0
+glare,moderate,0.76,0.645,0.865,29.333
+glare,severe,0.733,0.618,0.844,34.667
+blur,mild,0.753,0.636,0.855,12.0
+blur,moderate,0.708,0.586,0.817,17.333
+blur,severe,0.612,0.483,0.731,18.667
+dark,mild,0.69,0.561,0.809,22.667
+dark,moderate,0.508,0.371,0.642,28.0
+dark,severe,0.515,0.368,0.646,33.333
